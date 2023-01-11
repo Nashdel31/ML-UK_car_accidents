@@ -21,13 +21,6 @@ Le modèle "Random Forest" donne les meilleurs résultats :
 |weighted avg|    0.75     |  0.75  |    0.75   | 159232
 </code>
 <br><br>
-Discussion :
-<br>Nous avons beaucoup de données mais dont la pertinence avec l'objectif est trop éloignée pour
-en ressortir de très bons résultats. Essayer de prédire la gravité d'un accident de voiture sans 
-données sur l'angle d'impact, la force de l'impact, le niveau d'attention des conducteurs, etc... 
-revient à vouloir prédire les résultats d'un élève aux examens en se basant sur la couleur de ses
-vêtements et le petit déjeuner qu'il a pris. Sans pertinence les données aussi nombreuses soient-elles 
-ne peuvent pas donner de résultats exploitables.
 
 <br><br>
 Source : [www.kaggle.com](www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales?select=accidents_2012_to_2014.csv)
